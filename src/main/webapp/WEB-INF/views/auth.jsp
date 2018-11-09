@@ -9,15 +9,15 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="/login" method="post">
+	<form action="/my-login" method="post">
 		<table>
 			<tr>
 				<td><label for="username"> Username: </label></td>
-				<td><input type='text' id='username' name='username' /></td>
+				<td><input type='text' id='my-username' name='my-username' /></td>
 			</tr>
 			<tr>
 				<td><label for="password"> Password: </label></td>
-				<td><input type='password' id='password' name='password' /></td>
+				<td><input type='password' id='my-password' name='my-password' /></td>
 			</tr>
 			<tr>
 				<td colspan="2">
